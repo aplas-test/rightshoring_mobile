@@ -9,14 +9,13 @@
       "description": "Proactive actuating orchestration",
       "categoryId": "planning",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "178",
       "vendor_phone": "+86 804 971 5087",
       "status_color": "#00FF00",
       "department": "Sales",
       "hostedtype": "OnPremise",
       "deployment_date": "1/5/11",
-      "investment_number": "218",
+      "investment_number": 218,
       "type": "OffShelf",
       "sme_email": "Judi.Gwynn@memento.net.au",
       "investment_24m": "802",
@@ -25,11 +24,11 @@
       "support_cost": "406",
       "vendor_contact_name": "Harrietta Coil",
       "end_of_life": "28/7/18",
-      "months_to_renew_support": "27",
+      "months_to_renew_support": 27,
       "end_of_maintenance": "27/2/17",
       "integrations": [
         {
-          "assetId": "int-298",
+          "id": "int-298",
           "name": "INT-298",
           "shortName": null,
           "version": "0.7.6",
@@ -37,7 +36,6 @@
           "payload": "ASN",
           "targetApplicationId": "innovation_4g",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "decom_date": "20/4/16",
           "status_color": "#FF0000",
@@ -51,7 +49,7 @@
           "golive_date": "20/2/05"
         },
         {
-          "assetId": "int-236",
+          "id": "int-236",
           "name": "INT-236",
           "shortName": null,
           "version": "2.6",
@@ -59,7 +57,6 @@
           "payload": "Receipt - Adjustments",
           "targetApplicationId": "valuebyte",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -72,7 +69,7 @@
           "golive_date": "21/7/04"
         },
         {
-          "assetId": "int-349",
+          "id": "int-349",
           "name": "INT-349",
           "shortName": null,
           "version": "8.6.7",
@@ -80,7 +77,6 @@
           "payload": "Replacement SKU",
           "targetApplicationId": "cloud_blog",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "decom_date": "8/9/15",
           "status_color": "#FF0000",
@@ -94,7 +90,7 @@
           "golive_date": "25/9/12"
         },
         {
-          "assetId": "int-307",
+          "id": "int-307",
           "name": "INT-307",
           "shortName": null,
           "version": "4.4",
@@ -102,7 +98,6 @@
           "payload": "Distributed Method Extract Vendor Extract",
           "targetApplicationId": "innovation_4g",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -115,7 +110,7 @@
           "golive_date": "7/6/04"
         },
         {
-          "assetId": "int-240",
+          "id": "int-240",
           "name": "INT-240",
           "shortName": null,
           "version": "7.8.2",
@@ -123,7 +118,6 @@
           "payload": "Customer",
           "targetApplicationId": "leverage_fruit",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -136,7 +130,7 @@
           "golive_date": "28/11/01"
         },
         {
-          "assetId": "int-345",
+          "id": "int-345",
           "name": "INT-345",
           "shortName": null,
           "version": "0.37",
@@ -144,7 +138,6 @@
           "payload": "Location Extract Location Grade Extract",
           "targetApplicationId": "onpoint_micro",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -157,7 +150,7 @@
           "golive_date": "16/12/15"
         },
         {
-          "assetId": "int-310",
+          "id": "int-310",
           "name": "INT-310",
           "shortName": null,
           "version": "2.6",
@@ -165,7 +158,6 @@
           "payload": "Product Information",
           "targetApplicationId": "make_weblog",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#FFFF15",
           "department": "Integration",
